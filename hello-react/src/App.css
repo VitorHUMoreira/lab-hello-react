@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+.bg-top {
+  background-color: #1f2535;
+  padding: 20px 40px;
+}
+
+.bg-bottom {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  padding: 20px 40px;
+  margin-top: 48px;
+}
+
+.bg-bottom p {
+  font-weight: lighter;
+  font-size: 12px;
+  margin: 0;
+}
